@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="ejemplo2.css"?>
+<!-- ejemplo2.xml OD18003 -->
+<pais nombre="El Salvador">
+  <departamento id="1" nombre="San Salvador">
+    <cabecera>San Salvador</cabecera>
+    <habitantes>1,700,000</habitantes>
+    <altura>545 MSNM</altura>
+    <areaterritorial>122.8 KM2</areaterritorial>
+  </departamento>
+
+  <departamento id="2" nombre="Chalatenango">
+    <cabecera>Chalatenango</cabecera>
+    <habitantes>192,800</habitantes>
+    <altura>396 MSNM</altura>
+    <areaterritorial>131.8 KM2</areaterritorial>
+  </departamento>
+  
+  <moneda>Dolar</moneda>
+  <Codigotelefonixo>503</Codigotelefonixo>
+  <Idioma>Español</Idioma>
+
+</pais>

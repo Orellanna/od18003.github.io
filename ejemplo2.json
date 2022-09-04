@@ -1,0 +1,32 @@
+{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Chalatenango",
+				"habitantes": "192,800",
+				"altura": "396 MSNM",
+				"areaterritorial": "131.8 KM2",
+				"_id": "2",
+				"_nombre": "Chalatenango"
+			},
+			{
+				"cabecera": "Santa Ana",
+				"habitantes": "187,900",
+				"altura": "456 MSNM",
+				"_id": "3",
+				"_nombre": "Sanra Ana"
+			}
+		],
+		"moneda": "Dolar",
+		"Codigotelefonixo": "503",
+		"Idioma": "Español",
+		"_nombre": "El Salvador"
+	}
+}
